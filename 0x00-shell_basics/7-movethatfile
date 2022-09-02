@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp/ necho betty > my_first_directory
+cd /tmp/ echo betty > my_first_directory
