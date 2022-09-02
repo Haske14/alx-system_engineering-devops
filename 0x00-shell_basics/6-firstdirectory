@@ -1,2 +1,2 @@
 #!/bin/bash
-nmkdir /tmp/ nmkdir my_first_directory
+nmkdir/tmp/nmkdir/my_first_directory
