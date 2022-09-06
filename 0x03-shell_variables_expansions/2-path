@@ -1,1 +1,2 @@
-e #!/bin/bash\nPATH=$PATH:/action
+#!/bin/bash
+PATH=$PATH:/action
